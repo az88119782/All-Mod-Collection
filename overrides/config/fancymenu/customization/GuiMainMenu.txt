@@ -205,28 +205,8 @@ customization {
   action = addtext
   y = 206
   scale = 1.0
-  value = All Mod Collection V.1.0
+  value = All Mod Collection V.1.1
 }
 
-customization {
-  orientation = top-left
-  shadow = true
-  centered = false
-  x = 1
-  action = addtext
-  y = 198
-  scale = 1.0
-  value = By Xuelang
-}
 
-customization {
-  orientation = top-left
-  shadow = true
-  centered = false
-  x = 1
-  action = addtext
-  y = 206
-  scale = 1.0
-  value = All Mod Collection V.1.0
-}
 

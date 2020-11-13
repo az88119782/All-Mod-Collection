@@ -4,21 +4,6 @@
 
 #ANY AND ALL CHANGES TO THIS FILE WILL BE REPLACED WHEN THIS FILE IS REGENERATED NEXT TIME THE GAME IS RUN. THIS IS FOR INFORMATIONAL PURPOSES ONLY AND IS NOT A CONFIG FILE!
 
-baronyte                                          (tconstruct:molten_baronyte)                                                     = Molten Baronyte
-blazium                                           (tconstruct:molten_blazium)                                                      = Molten Blazium
-elecanium                                         (tconstruct:molten_elecanium)                                                    = Molten Elecanium
-emberstone                                        (tconstruct:molten_emberstone)                                                   = Molten Emberstone
-ghastly                                           (tconstruct:molten_ghastly)                                                      = Molten Ghastly Metal
-ghoulish                                          (tconstruct:molten_ghoulish)                                                     = Molten Ghoulish Metal
-limonite                                          (tconstruct:molten_limonite)                                                     = Molten Limonite
-lunar                                             (tconstruct:molten_lunar)                                                        = Molten Lunar Metal
-lyon                                              (tconstruct:molten_lyon)                                                         = Molten Lyon
-mystite                                           (tconstruct:molten_mystite)                                                      = Molten Mystite
-rosite                                            (tconstruct:molten_rosite)                                                       = Molten Rosite
-shyrestone                                        (tconstruct:molten_shyrestone)                                                   = Molten Shyrestone
-skeletal                                          (tconstruct:molten_skeletal)                                                     = Molten Skeletal Metal
-varsium                                           (tconstruct:molten_varsium)                                                      = Molten Varsium
-charger                                           (tconstruct:molten_charger)                                                      = Liquid Charger
 electrical_steel                                  (enderio:block_fluid_electrical_steel)                                           = Molten Electrical Steel
 energetic_alloy                                   (enderio:block_fluid_energetic_alloy)                                            = Molten Energetic Alloy
 vibrant_alloy                                     (enderio:block_fluid_vibrant_alloy)                                              = Molten Vibrant Alloy
