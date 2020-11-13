@@ -1,0 +1,232 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  renderorder = foreground
+}
+
+customization {
+  path = modmeue/png/2141641.png
+  action = texturizebackground
+}
+
+customization {
+  path = modmeue/music/tousaku.wav
+  loop = false
+  action = addaudio
+}
+
+customization {
+  identifier = %id=9%
+  orientation = mid-right
+  x = -158
+  action = movebutton
+  y = 33
+}
+
+customization {
+  identifier = %id=9%
+  width = 121
+  action = resizebutton
+  height = 25
+}
+
+customization {
+  identifier = %id=9%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=9%
+  action = setbuttontexture
+  backgroundhovered = modmeue/Butt/quit.png
+  backgroundnormal = modmeue/Butt/quit.png
+}
+
+customization {
+  identifier = %id=3%
+  orientation = mid-right
+  x = -172
+  action = movebutton
+  y = -47
+}
+
+customization {
+  identifier = %id=3%
+  width = 147
+  action = resizebutton
+  height = 21
+}
+
+customization {
+  identifier = %id=3%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=3%
+  action = setbuttontexture
+  backgroundhovered = modmeue/Butt/multiplayer.png
+  backgroundnormal = modmeue/Butt/multiplayer.png
+}
+
+customization {
+  identifier = %id=8%
+  orientation = mid-right
+  x = -143
+  action = movebutton
+  y = -19
+}
+
+customization {
+  identifier = %id=8%
+  width = 95
+  action = resizebutton
+  height = 18
+}
+
+customization {
+  identifier = %id=8%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=8%
+  action = setbuttontexture
+  backgroundhovered = modmeue/Butt/options.png
+  backgroundnormal = modmeue/Butt/options.png
+}
+
+customization {
+  identifier = %id=2%
+  orientation = mid-right
+  x = -174
+  action = movebutton
+  y = -76
+}
+
+customization {
+  identifier = %id=2%
+  width = 152
+  action = resizebutton
+  height = 22
+}
+
+customization {
+  identifier = %id=2%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=2%
+  action = setbuttontexture
+  backgroundhovered = modmeue/Butt/sing.png
+  backgroundnormal = modmeue/Butt/sing.png
+}
+
+customization {
+  identifier = %id=7%
+  orientation = mid-right
+  x = -144
+  action = movebutton
+  y = 7
+}
+
+customization {
+  identifier = %id=7%
+  width = 91
+  action = resizebutton
+  height = 19
+}
+
+customization {
+  identifier = %id=7%
+  action = setbuttontexture
+  backgroundhovered = modmeue/Butt/language.png
+  backgroundnormal = modmeue/Butt/language.png
+}
+
+customization {
+  identifier = %id=1%
+  orientation = top-left
+  x = 0
+  action = movebutton
+  y = 150
+}
+
+customization {
+  identifier = %id=4%
+  orientation = top-left
+  x = 0
+  action = movebutton
+  y = 171
+}
+
+customization {
+  identifier = %id=5%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=6%
+  action = hidebutton
+}
+
+customization {
+  path = modmeue/amc.png
+  orientation = top-left
+  x = 34
+  width = 134
+  action = addtexture
+  y = 32
+  height = 113
+}
+
+customization {
+  orientation = top-left
+  shadow = true
+  centered = false
+  x = 1
+  action = addtext
+  y = 197
+  scale = 1.0
+  value = By Xuelang
+}
+
+customization {
+  orientation = top-left
+  shadow = true
+  centered = false
+  x = 1
+  action = addtext
+  y = 206
+  scale = 1.0
+  value = All Mod Collection V.1.0
+}
+
+customization {
+  orientation = top-left
+  shadow = true
+  centered = false
+  x = 1
+  action = addtext
+  y = 198
+  scale = 1.0
+  value = By Xuelang
+}
+
+customization {
+  orientation = top-left
+  shadow = true
+  centered = false
+  x = 1
+  action = addtext
+  y = 206
+  scale = 1.0
+  value = All Mod Collection V.1.0
+}
+
